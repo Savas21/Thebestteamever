@@ -7,11 +7,12 @@ Roger Tran
 Clifford Ferraren
 Yuanyuan Wu
 
-Project:Who is the most Valuble League of Legends Team in NA LCS & EU LCS?
+## **Who is the most Valuble League of Legends Team in NA LCS & EU LCS?**
 
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/09/23/league-legends.jpg)
 
-### **BACKGROUND** : In the preseason before 2018, many investors with deep pockets from traditional sports  such as the Houston Rockets, Golden State Warriors have bought entire team organizations. 
+### **BACKGROUND** :
+In the preseason before 2018, many investors with deep pockets from traditional sports  such as the Houston Rockets, Golden State Warriors have bought entire team organizations. 
 Before 2018, Some investors (Mark Cuban) expressed hesitation to enter the scene due to the volatility of the sport. In the past, underperforming teams could lose their spot in the league and the investor would lose their entire investment. 
 This rule was dropped in 2018 when Riot Games allowed franchising. This makes e-sports investments less risky and attracts more investors.
 
@@ -22,12 +23,15 @@ The Explosive growth of E-sport
 - Reputation 
 - Fans
 - Win Rates
+
 For example, Dallas Cowboys is the most valuable Football team in NFL, but it does not play as well as New England Patriots or Philadelphia Eagles. 
 
 
-### **ASK**: Is there a correlation between team popularity and success in competitive League of Legends?
+### **ASK**: 
+Is there a correlation between team popularity and success in competitive League of Legends?
 
-### **OBJECTIVE**: An external investor will invest in an undervalued or underpublicized team organization and seek the greatest returns through the organization’s competitive success.
+### **OBJECTIVE**: 
+An external investor will invest in an undervalued or underpublicized team organization and seek the greatest returns through the organization’s competitive success.
 
 ### **PARAMETERS/SCOPE**:
 We will only include the most competitve leagues in **NA** and **EU** regions. Does not include “B-League” (NACS, EUCS, etc.)
