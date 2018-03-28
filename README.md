@@ -2,10 +2,10 @@
 Best-Group-Ever is a the best team of the USC Viterbi Data Analytics Bootcamp
 
 Team members:
-Savas Karakus
-Roger Tran
-Clifford Ferraren
-Yuanyuan Wu
+- [Savas Karakus] (https://www.linkedin.com/in/savaş-karakuş-0a79bb76/)
+- [Roger Tran](https://www.linkedin.com/in/roger-tran-80a2091a/)
+- [Clifford Ferraren](https://www.linkedin.com/in/clifford-ferraren)
+- [Yuanyuan Wu](https://www.yoyo-wu.com/)
 
 ## **Who is the most Valuble League of Legends Team in NA LCS & EU LCS?**
 
@@ -41,31 +41,32 @@ Internaments Include: World Championships, Mid Season Invitational (MSI)
 
 Popularity defined in several categorie
 
-Overall Social Sentiment on Twitter By Team (Search Terms)
-Success defined as % winrate (from e-sports API):
+- Overall Social Sentiment on Twitter By Team (Search Terms)
+- Overall Social Sentiment on Youtube By Team (Search Terms)
+- Overall Social Sentiment on Twitch By Team (Search Terms)
+- Success defined as % winrate (from e-sports API):
 	Number of wins / Number of games played
 
 ## Schedule
 
 ### Date March 22, Thursday 
-Brainstroming 
-Setup git
-Setup Slack
+- Brainstroming 
+- Setup git
+- Setup Slack
 
 ### Date March 24, Saturday 
-Submit Proposal 
+- Submit Proposal 
 
 ### Date March 27, Tuesday 
-Analysis of E-sport Data: Roger
+- Analysis of E-sport Data: Roger
 
-Analysis of Twitter Data: 
-Build Twitter Data Pull:
-Build Bar Plot by Teams: 
-
+- Analysis of Twitter Data: Yuanyuan Wu
+- Analysis of Youtube Data: Clifford
+- Analhsis of Twitch Data: Savas
 ### Date March 29, Thursday 
-Build correlation linear plot between Win rate and Overall Sentiment on Twitter for each team:
+- Build correlation linear plot between Win rate and Overall Sentiment on Twitter for each team:
 ### Date March 31, Saturday
 
-Clean the Data on Git: 
+- Clean the Data on Git: 
 
-Prepare Presentation (Build Google Slides): Yuanyuan  
+- Prepare Presentation (Build Google Slides): Yuanyuan  
