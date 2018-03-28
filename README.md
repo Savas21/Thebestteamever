@@ -2,7 +2,7 @@
 Best-Group-Ever is a the best team of the USC Viterbi Data Analytics Bootcamp
 
 Team members:
-- [Savas Karakus] (https://www.linkedin.com/in/savaş-karakuş-0a79bb76/)
+- [Savas Karakus](https://www.linkedin.com/in/savaş-karakuş-0a79bb76/)
 - [Roger Tran](https://www.linkedin.com/in/roger-tran-80a2091a/)
 - [Clifford Ferraren](https://www.linkedin.com/in/clifford-ferraren)
 - [Yuanyuan Wu](https://www.yoyo-wu.com/)
