@@ -50,9 +50,9 @@ Popularity defined in several categorie
 ## Schedule
 
 ### Date March 22, Thursday 
-- Brainstroming 
-- Setup git
-- Setup Slack
+- Brainstroming : Whole group
+- Setup git : Savas
+- Setup Slack : Clifford
 
 ### Date March 24, Saturday 
 - Submit Proposal 
@@ -64,9 +64,11 @@ Popularity defined in several categorie
 - Analysis of Youtube Data: Clifford
 - Analhsis of Twitch Data: Savas
 ### Date March 29, Thursday 
-- Build correlation linear plot between Win rate and Overall Sentiment on Twitter for each team:
+- Merge Sentiment Score from Twitter, Youtube and Twitch into a csv file: Yuanyuan
+- Build Scatter chart and Bar chart for each teams' compound sentiment Score
+- Build correlation linear plot between Win rate and Overall Sentiment on Twitter,Youtube and Twitch for each team: Clifford
 ### Date March 31, Saturday
 
-- Clean the Data on Git: 
+- Clean the Data on Git: Savas
 
 - Prepare Presentation (Build Google Slides): Yuanyuan  
