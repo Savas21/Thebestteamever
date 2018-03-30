@@ -1,11 +1,4 @@
-# results = []
-# for page in range(10)
-#
-#     response = requests.get(url, params={"page":page})
-#     results.append(response.json())
 
-
-# import dependencies
 import requests
 import pandas as pd
 import json
