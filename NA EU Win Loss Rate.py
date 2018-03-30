@@ -4,6 +4,7 @@ import pandas as pd
 import json
 import numpy
 import pprint as pp
+from config import api_key
 
 # Get PandaScore
 # series_old = "https://api.pandascore.co/series?token="
@@ -25,7 +26,7 @@ EULCSmatches = "https://api.pandascore.co/tournaments/684/matches?page="
 NALCSmatches = "https://api.pandascore.co/tournaments/652/matches?page="
 
 token = "&token="
-api_key = "SJnR-aaQcMjV_OGI4Ip_MOqYDH-ZwLLHdhda1cRyAHPTpCpz9a8"
+
 
 # response = requests.get(leagues+api_key)
 # league_id = response.json()
@@ -57,6 +58,7 @@ api_key = "SJnR-aaQcMjV_OGI4Ip_MOqYDH-ZwLLHdhda1cRyAHPTpCpz9a8"
 
 # Get Match IDs for EULCS
 # Get Win Count By Team
+# Get Loss Count By Team
 # Get List of Teams
 
 EULCSteams = []
@@ -471,3 +473,4 @@ index = ['G2 Esports', 'Splyce', 'Vitality', 'Unicorns of Love', 'Fnatic', 'ROCC
 df = pd.DataFrame(d, index=index)
 df = df[['Region', 'Wins', 'Losses']]
 print(df)
+df.to_csv('WinLossRates.csv')w
