@@ -399,26 +399,26 @@ print("===========================================")
 print("")
 
 # Construct DataFrame
-d = {'Region': ['EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'EU',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
-                'NA',
+d = {'Region': ['Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'Europe',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
+                'North America',
                 ],
 
      'Wins': [G2_win,
@@ -473,4 +473,4 @@ index = ['G2 Esports', 'Splyce', 'Vitality', 'Unicorns of Love', 'Fnatic', 'ROCC
 df = pd.DataFrame(d, index=index)
 df = df[['Region', 'Wins', 'Losses']]
 print(df)
-df.to_csv('WinLossRates.csv')w
+df.to_csv('WinLossRates.csv')
