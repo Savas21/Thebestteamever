@@ -7,7 +7,7 @@ Team members:
 - [Clifford Ferraren](https://www.linkedin.com/in/clifford-ferraren)
 - [Yuanyuan Wu](https://www.yoyo-wu.com/)
 
-## **Who is the most Valuble League of Legends Team in NA LCS & EU LCS?**
+## **Who is the most Valuable League of Legends Team in NA LCS & EU LCS?**
 
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/09/23/league-legends.jpg)
 
@@ -65,7 +65,7 @@ Popularity defined in several categorie
 - Analhsis of Twitch Data: Savas
 ### Date March 29, Thursday 
 - Merge Sentiment Score from Twitter, Youtube and Twitch into a csv file: Yuanyuan
-- Build Scatter chart and Bar chart for each teams' compound sentiment Score
+- Build Scatter chart and Bar chart for each teams' compound sentiment Score: Savas
 - Build correlation linear plot between Win rate and Overall Sentiment on Twitter,Youtube and Twitch for each team: Clifford
 ### Date March 31, Saturday
 
