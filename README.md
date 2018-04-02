@@ -12,8 +12,8 @@ Team members:
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/09/23/league-legends.jpg)
 
 ### **BACKGROUND** :
-In the preseason before 2018, many investors with deep pockets from traditional sports  such as the Houston Rockets, Golden State Warriors have bought entire team organizations. 
-Before 2018, Some investors (Mark Cuban) expressed hesitation to enter the scene due to the volatility of the sport. In the past, underperforming teams could lose their spot in the league and the investor would lose their entire investment. 
+In the preseason before 2018, rich investors from traditional sports leaped at the opportunity to invest in franchised esports teams. These investors include the Golden State Warriors and Houston Rockets from the NBA and New York Yankees from the MLB.
+Before 2018, Some investors (Mark Cuban) hesitated to enter the scene due to the volatility of the sport. In the past, underperforming teams could lose their spot in the league and the investor would lose their entire investment. 
 This rule was dropped in 2018 when Riot Games allowed franchising. This makes e-sports investments less risky and attracts more investors.
 
 The Explosive growth of E-sport 
