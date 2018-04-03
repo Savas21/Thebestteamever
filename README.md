@@ -11,7 +11,7 @@ Team members:
 Our Presentation :
 [Link(Google Slides)](https://docs.google.com/presentation/d/1lSMNIlmwMOPpmW1FKkjokSiIe9E4trUu6I6aXdk9heM/edit?usp=sharing)
 
-## **Who is the most Valuable League of Legends Team in NA LCS & EU LCS?**
+## **What is the most Undervaluabled League of Legends Team in NA LCS & EU LCS?**
 
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/09/23/league-legends.jpg)
 
@@ -36,7 +36,7 @@ Is there a correlation between team popularity and success in competitive League
 
 ### **OBJECTIVE**: 
 An external investor will invest in an undervalued or underpublicized team organization and seek the greatest returns through the organization’s competitive success.
-
+Becuase the team has high win-rate, and has potential to gain more fans. 
 ### **PARAMETERS/SCOPE**:
 We will only include the most competitve leagues in **NA** and **EU** regions. Does not include “B-League” (NACS, EUCS, etc.)
 We will look at the popularity and win rates of 10 teams per region (20 teams).
