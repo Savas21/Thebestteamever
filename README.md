@@ -11,7 +11,7 @@ Team members:
 Our Presentation :
 [Link(Google Slides)](https://docs.google.com/presentation/d/1lSMNIlmwMOPpmW1FKkjokSiIe9E4trUu6I6aXdk9heM/edit?usp=sharing)
 
-## **What is the most Undervaluabled League of Legends Team in NA LCS & EU LCS?**
+## **What is the most undervalued League of Legends Team in NA LCS & EU LCS?**
 
 ![alt text](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/09/23/league-legends.jpg)
 
